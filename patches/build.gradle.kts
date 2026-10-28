@@ -4,7 +4,7 @@ patches {
     about {
         name = "Trax Morphe Patches"
         description = "Duolingo patches for use with Morphe"
-        source = "git@github.com:bastlam/trax_morphe_patches.git"
+        source = "git@github.com:bastlam/trax_patches.git"
         author = "Trax"
         contact = "na"
         website = "https://morphe.software"

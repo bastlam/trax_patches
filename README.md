@@ -12,7 +12,7 @@ Tested version: `6.102.3`.
 
 ## Usage
 
-Click [this deeplink](https://morphe.software/add-source?github=bastlam/trax_morphe_patches) from a device with Morphe installed, or manually add `https://github.com/bastlam/trax_morphe_patches` as a remote source in Morphe Manager.
+Click [this deeplink](https://morphe.software/add-source?github=bastlam/trax_patches) from a device with Morphe installed, or manually add `https://github.com/bastlam/trax_patches` as a remote source in Morphe Manager.
 
 ## Credits
 
