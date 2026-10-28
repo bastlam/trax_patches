@@ -1,8 +1,6 @@
-# Trax Morphe Patches
+# Trax Patches
 
-![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
-
-Duolingo patches for use with [Morphe](https://morphe.software).
+Duolingo patches
 
 | App      | Package        | Patches                                                                                                                     |
 |----------|----------------|-----------------------------------------------------------------------------------------------------------------------------|
@@ -12,8 +10,4 @@ Tested version: `6.102.3`.
 
 ## Usage
 
-Click [this deeplink](https://morphe.software/add-source?github=bastlam/trax_patches) from a device with Morphe installed, or manually add `https://github.com/bastlam/trax_patches` as a remote source in Morphe Manager.
-
-## Credits
-
-Based on [hoo-dles/morphe-patches](https://github.com/hoo-dles/morphe-patches) (GPLv3).
+Manually add `https://github.com/bastlam/trax_patches` as a remote source.
